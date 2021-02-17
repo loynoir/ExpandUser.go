@@ -1,4 +1,4 @@
-# expanduser.go
+# ExpandUser.go 
 python os.path.expanduser equivalent in golang
 
 # Install
